@@ -4,7 +4,6 @@ def get_cooked():
 def eat_something():
     pass
 
-
 if __name__ == '__main__':
     get_cooked()
 
